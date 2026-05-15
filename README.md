@@ -102,6 +102,13 @@ because detecting risky customers is more important than simply achieving high a
 
 ---
 
+# 🎥 Project Demo
+
+https://github.com/user-attachments/assets/cc7f1f42-5599-4ca2-9bed-6abf8ec3a2cd
+
+---
+
+
 ## 2️⃣ Imbalance Handling
 
 The dataset imbalance was handled using:
@@ -203,14 +210,14 @@ Why?
 
 ---
 
-# 🚀 Deployment
+# 🚀 Live Deployment
 
-The project was deployed using:
+The Insurance Claim Risk Prediction system has been deployed using Streamlit on Hugging Face Spaces.
 
-- Streamlit
-- Hugging Face Spaces
+🔗 Live Application:  
+https://huggingface.co/spaces/gitamacc/insurance-claim-risk-prediction
 
-Users can enter customer and vehicle details to predict insurance claim risk in real time.
+Users can enter customer and vehicle information to predict insurance claim risk in real time.
 
 ---
 
